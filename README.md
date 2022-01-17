@@ -1,4 +1,3 @@
-# caracterisation-de-la-boule-unitaire-d_un-espace-vectoriel-norme
 # Résumé :
 Caractèriser la boule unitaire d'un espace vectoriel normé est le donné de minimum possible des
 informations sur une partie A =/ ?, pour qu'elle sera la boule unitaire de cet espace vectoriel pour une
